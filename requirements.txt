@@ -1,0 +1,8 @@
+Collecting pytz==2021.1
+  Downloading pytz-2021.1-py2.py3-none-any.whl (510 kB)
+[35mERROR[0m: Could not find a version that satisfies the requirement pywin32==224
+[35mERROR[0m: No matching distribution found for pywin32==224
+[35mWARNING[0m: You are using pip version 21.0.1; however, version 21.1.1 is available.
+You should consider upgrading via the '/home/appuser/venv/bin/python -m pip install --upgrade pip' command.
+[32m[manager] [0minstaller returned a non-zero exit code
+[32m[manager] [0mError during processing dependencies! Please fix the error and push an update, or try restarting the app.

@@ -16,5 +16,4 @@ mysqlclient==2.0.3
 pandas==1.2.4
 plotly==5.1.0
 plotly-express==0.4.1
-SQLAlchemy @ file:///opt/concourse/worker/volumes/live/31df50e1-4e8b-40a3-6d21-5c6d01ae48e8/volume/sqlalchemy_1618089538006/work
 streamlit==0.89.0
